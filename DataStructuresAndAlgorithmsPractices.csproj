@@ -47,6 +47,7 @@
     <Compile Include="Abstraction\ContractEmployee.cs" />
     <Compile Include="Abstraction\FullTimeEmployee.cs" />
     <Compile Include="Delegate\Employee.cs" />
+    <Compile Include="Dictionary\Customer.cs" />
     <Compile Include="LinkList\Node.cs" />
     <Compile Include="LinkList\NodeLink.cs" />
     <Compile Include="Program.cs" />
